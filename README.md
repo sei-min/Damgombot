@@ -2,8 +2,7 @@
 
 discord.py, edge-tts 라이브러리를 사용하여 입력 언어 감지로 6개국어에 대한 tts를 출력하는 디스코드 tts 봇
 
-
-소스 파일 설명
+## 소스 파일 설명
 ### damgom_main.py
   봇 실행을 위한 Controller 모듈
 
